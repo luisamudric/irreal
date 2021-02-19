@@ -10,6 +10,6 @@ One of my biggest worries was the considerable possibility of triggering someone
 
 Due to the nature of my college course being hardware and software focused, I had to shift gears and centre my attention to the fundamental technicalities of the project. Through multiple attempts and prototypes, I found making a visual novel in Unity, combined with the serial communication between Unity and Arduino, without using a plugin incredibly difficult. Since the project deadline was approaching rapidly, I found a Unity plugin called Ardity, made by Daniel Wilches, that was ideal for the technical fundmentals of my project - it allows for the Arduino to be used as an output and Unity as an input. 
 
-In this repository, you will find the script written by Daniel in Unity that I adapted for my project,the Arduino code I fully wrote myself, a picture of my final prototype working, the Fritzing schematic I made for the hardware part of my project and a template I made of what the visual novel might look like.
+In this repository, you will find the script written by Daniel in Unity that I adapted for my project, the Arduino code I fully wrote myself, a picture of my final prototype working, the Fritzing schematic I made for the hardware part of my project and a template I made of what the visual novel might look like.
 
 My plan going forward is to use a different software engine called Ren'Py that is a visual novel engine that is compatible with the Raspberry Pi, a small single-board computer.
